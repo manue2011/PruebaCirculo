@@ -1,0 +1,30 @@
+[33mcommit a2040c50ac26c0690d7eb7baf46933b26a255537[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: manual2011 <reyesmanuelzarate@gmail.com>
+Date:   Sun Mar 9 20:45:32 2025 +0100
+
+    Commit inicial: Refactorización de la clase Circle
+
+[33mcommit 06ca1e5c8bfe610cccfd0c9fb94f43ce9ff33996[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: e4690de 0bd261e
+Author: manual2011 <reyesmanuelzarate@gmail.com>
+Date:   Sun Mar 2 19:27:43 2025 +0100
+
+    Resuelto conflicto después de pull
+
+[33mcommit 0bd261ef9bc66870be6d01a6853a29db037f71f4[m
+Author: manue2011 <reyesmanuelzarate@gmail.com>
+Date:   Sun Mar 2 19:14:53 2025 +0100
+
+    Initial commit
+
+[33mcommit e4690de404dfa7f163f6e81ac1ed163682f1124d[m
+Author: manual2011 <reyesmanuelzarate@gmail.com>
+Date:   Sun Mar 2 19:08:59 2025 +0100
+
+    Añadiendo un cambio para probar credenciales
+
+[33mcommit 0610c0a295da38141bda28b1415eed7e4b1c6005[m
+Author: Isidoro Nevares Martín <inevares@hotmail.com>
+Date:   Wed Jan 15 14:55:31 2025 +0100
+
+    Primer commit
